@@ -17,7 +17,7 @@ public class MysqlCon {
                 // db parameters
                 String url = "jdbc:mysql://localhost:3306/fsae01";
                 String user = "root";
-                String password = "Aa123456";
+                String password = "1870";
 
                 // Class.forName("com.mysql.cj.jdbc.Driver");
 
